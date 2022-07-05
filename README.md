@@ -1,8 +1,5 @@
 ### Hola 👋
 
-<!--
-**Laz-Lopez/laz-lopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 
 - 🔭 I’m currently working on becoming a data scientist ...
@@ -13,4 +10,3 @@
 - 📫 How to reach me: very carefully via www.linkedin.com/in/lazaro-lopez-24a90b185...
 - 😄 Pronouns: he/him...
 - ⚡ Fun fact: While Law School Was hard it was much easier than becoming an engineer ...
--->
